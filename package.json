@@ -16,5 +16,8 @@
     "url": "https://github.com/AndreGeng/algorithm/issues"
   },
   "homepage": "https://github.com/AndreGeng/algorithm#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "tsx": "^4.19.3"
+  }
 }
