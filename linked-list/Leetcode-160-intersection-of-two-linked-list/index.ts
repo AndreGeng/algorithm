@@ -18,6 +18,10 @@ class ListNode {
     this.next = next === undefined ? null : next;
   }
 }
+/**
+ * time complexity: O(m+n)
+ * space complexity: O(m) or O(n)
+ */
 function getIntersectionNode(
   headA: ListNode | null,
   headB: ListNode | null,
